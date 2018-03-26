@@ -7,4 +7,3 @@ Repository for the free PDF24 Creator Windows application. This repository is us
 - [Release Notes](https://en.pdf24.org/pdf-creator-changelog.html)
 - [Features](https://en.pdf24.org/pdf-creator-features.html)
 - [Downloads](https://en.pdf24.org/pdf-creator-download.html)
-
