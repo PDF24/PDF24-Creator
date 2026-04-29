@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteRule ^$	manual.php	[L]
+RewriteRule manual.html	manual.php	[L]
